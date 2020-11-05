@@ -1,8 +1,8 @@
-# Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### This is still under construction so don't mind it for now...
 
 
-## Technologies and Tools
+## 🔧 Technologies and Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=GNU-Bash&logoColor=white&color=2bbc8a)
