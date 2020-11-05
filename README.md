@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+### This is still under construction so don't mind it for now...
+
+
+## Technologies and Tools
+![](https://img.shields.io/badge/Linux-IsGood-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
+
 
 <!--
 **Eastonco/eastonco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
