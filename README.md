@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=GNU-Bash&logoColor=white&color=2bbc8a)
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eastonco&theme=java" />
 
 
 <!--
