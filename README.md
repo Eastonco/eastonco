@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=GNU-Bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/discord/747539301675302922?logo=discord)
+![https://discord.gg/4BGfWKk](https://img.shields.io/discord/747539301675302922?logo=discord)
 
 ## &#x1f4c8; GitHub Stats
 
