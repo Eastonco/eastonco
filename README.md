@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I'm Connor, a senior at Washington State University studying Computer Science with a minor in Computer Engineering.
-I'm currently working for Expedia as a Software Engineer Intern and I'm set to graduate Fall of 2021. My profile has tons of repos including previous classes I've taken, previous personal projects, and even the source code for my website [Eastonco.net](eastonco.net)! 
+I'm currently working for Expedia as a Software Engineer Intern and I'm set to graduate Fall of 2021. My profile has tons of repos including previous classes I've taken, previous personal projects, and even the source code for my website [Eastonco.net](www.eastonconet)! 
 
 ## 📫 How to reach me
 Email: eastonco@icloud.com
