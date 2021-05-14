@@ -1,8 +1,12 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### This is still under construction so don't mind it for now...
+### I'm Connor, a senior at Washington State University studying Computer Science with a minor in Computer Engineering.
+I'm currently working for Expedia as a Software Engineer Intern and I'm set to graduate Fall of 2021. My profile has tons of repos including previous classes I've taken, previous personal projects, and even the source code for my website (Eastonco.net)[eastonco.net]! 
 
+## 📫 How to reach me
+Email: eastonco@icloud.com
+Discord: Eastonco#5684
 
-## 🔧 Technologies and Tools
+## 🔧 Technologies and Tools I love
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=GNU-Bash&logoColor=white&color=2bbc8a)
