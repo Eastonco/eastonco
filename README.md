@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/eastonco/eastonco/master/wave.gif" width="30px">
-### I'm Connor, a senior at Washington State University studying Computer Science with a minor in Computer Engineering.
-I'm currently finishing up my degree and graduating in December! After, I'll be starting at Expedia Group as a full time Software Engineer! My profile has tons of repos including previous classes I've taken, personal projects, and even the source code for my website [Eastonco.net](https://eastonco.net)! 
+### I'm Connor, A Software Engineer at Expeida and recent grad from Washington State Univerity
+ My profile has tons of fun stuff including previous classes I've taken, personal projects, and even the source code for my website [Eastonco.net](https://eastonco.net)! 
 
 ## 📫 How to reach me
 Email: eastonco@icloud.com
@@ -16,14 +16,22 @@ Discord: Eastonco#5684
 </a>
 
 ## &#x1f4c8; GitHub Stats
-
+<div align='center'>
+<table>
+<tr>
+<td>
 <a href="https://github.com/eastonco/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eastonco&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eastonco&hide=html,tcl,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=10" />
 </a>
-
+<td>
 <a href="https://github.com/eastonco/">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eastonco&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=eastonco&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+</td>
+</tr>
+</table>
+</div>
+        
 
 <!--
 **Eastonco/eastonco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
