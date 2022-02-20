@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/eastonco/eastonco/master/wave.gif" width="30px">
-### I'm Connor, A Software Engineer at Expeida and recent grad from Washington State Univerity
+### I'm Connor, A Software Engineer at Expedia and recent grad from Washington State Univerity
  My profile has tons of fun stuff including previous classes I've taken, personal projects, and even the source code for my website [Eastonco.net](https://eastonco.net)! 
 
 ## 📫 How to reach me
