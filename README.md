@@ -1,16 +1,16 @@
 # Hi there <img src="https://raw.githubusercontent.com/eastonco/eastonco/master/wave.gif" width="30px">
-### I'm Connor, A Software Engineer at Expedia and recent grad from Washington State Univerity
- My profile has tons of fun stuff including previous classes I've taken, personal projects, and even the source code for my website [Eastonco.net](https://eastonco.net)! 
-
+### I'm Connor, a software engineer at Expedia Group
+ My profile has tons of fun stuff including previous classes I've taken, personal projects, and even the source code for my website [Eastonco.net](https://eastonco.net)! I actually just made some big changes to the site check out the hidden route `/red-button` for some fun ;) 
+ 
 ## 📫 How to reach me
 Email: eastonco@icloud.com
 
 Discord: Eastonco#5684
 
 ## 🔧 Technologies and Tools I love
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=GNU-Bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=white)
+![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=GNU-Bash&logoColor=white&color=black)
 <a href="https://discord.gg/4BGfWKk">
   <img src="https://img.shields.io/discord/747539301675302922?logo=discord" />
 </a>
