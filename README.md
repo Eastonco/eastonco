@@ -1,11 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/eastonco/eastonco/master/wave.gif" width="30px">
 ### I'm Connor, a software engineer at Expedia Group
  My profile has tons of fun stuff including previous classes I've taken, personal projects, and even the source code for my website [Eastonco.net](https://eastonco.net)! I actually just made some big changes to the site check out the hidden route `/red-button` for some fun ;) 
- 
-## 📫 How to reach me
-Email: eastonco@icloud.com
-
-Discord: Eastonco#5684
 
 ## 🔧 Technologies and Tools I love
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=white)
