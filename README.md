@@ -1,6 +1,6 @@
 # Welcome to the party 🎉
 ### I'm Connor, a Software Engineer currently working at Expedia Group
-Here on GitHub you'll find a handful of my old projects including my [website](https://eastonco.net), a [printer connected to my desk](https://printer.eastonco.net) , and a bunch of other miscelanous projects and side quests. If you have any questions, don't hesitate to [reach out](mailto:eastonco@icloud.com) 💌 
+Here on GitHub you'll find a handful of my old projects including my [website](https://eastonco.net), a [printer connected to my desk](https://printer.eastonco.net) , and a bunch of other miscelanous school asignments and side quests. If you have any questions, don't hesitate to [reach out](mailto:eastonco@icloud.com) 💌 
 
 
 ## The Personal Project Stack - for when I want it to be easy
