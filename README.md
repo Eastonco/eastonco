@@ -1,6 +1,8 @@
 # Welcome to the party 🎉
 ### I'm Connor, a Software Engineer currently working at Expedia Group
-Here on GitHub you'll find a handful of my old projects including my [website](https://eastonco.net), a [printer connected to my desk](https://printer.eastonco.net) , and a bunch of other miscelanous school asignments and side quests. If you have any questions, don't hesitate to [reach out](mailto:eastonco@icloud.com) 💌 
+Here on GitHub you'll find a handful of my old projects including my [website](https://eastonco.net), a [printer connected to my desk](https://printer.eastonco.net), and a bunch of other miscellaneous school assignments and side quests. I'm currently interested in distributed systems, developer tooling, and finding ways to automate the boring stuff. If you have any questions, don't hesitate to [reach out](mailto:eastonco@icloud.com) 💌
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connor_Easton-%230A66C2?logo=linkedin)](https://linkedin.com/in/eastonco)
 
 
 ## The Personal Project Stack - for when I want it to be easy
@@ -39,17 +41,21 @@ Here on GitHub you'll find a handful of my old projects including my [website](h
   <img src="https://img.shields.io/discord/747539301675302922?logo=discord" />
 </a>
 
-        
+
+## GitHub Stats
+![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eastonco&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eastonco&layout=compact&theme=dark&hide_border=true)
+
 
 <!--
 **Eastonco/eastonco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
