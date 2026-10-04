@@ -1,11 +1,11 @@
-# Welcome to the party 🎉
-### I'm Connor, a Software Engineer currently working at Expedia Group
-Here on GitHub you'll find a handful of my old projects including my [website](https://eastonco.net), a [printer connected to my desk](https://printer.eastonco.net), and a bunch of other miscellaneous school assignments and side quests. I'm currently interested in distributed systems, developer tooling, and finding ways to automate the boring stuff. If you have any questions, don't hesitate to [reach out](mailto:eastonco@icloud.com) 💌
+# Sup nerds
+### I'm Connor, a Software Engineer at Expedia Group
+Here on GitHub you'll find a handful of my old projects including my [website](https://eastonco.net), a [printer connected to my desk](https://printer.eastonco.net), and a bunch of other miscellaneous assignments from college and side quests. I'm currently interested in AI native development, developer tooling, and finding ways to automate the boring stuff. If you have any questions, don't hesitate to [reach out](mailto:eastonco@icloud.com) 💌
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connor_Easton-%230A66C2?logo=linkedin)](https://linkedin.com/in/eastonco)
 
 
-## The Personal Project Stack - for when I want it to be easy
+## My Personal Project Stack - for when I want it to be easy
 ![Static Badge](https://img.shields.io/badge/Fullstack-TypeScript-blue?logo=Typescript)
 ![Static Badge](https://img.shields.io/badge/CSS-Tailwind-%2300BCFF?logo=tailwindCSS)
 ![Static Badge](https://img.shields.io/badge/backend-Supabase-black?logo=supabase)
@@ -13,7 +13,7 @@ Here on GitHub you'll find a handful of my old projects including my [website](h
 ![Static Badge](https://img.shields.io/badge/Deployment-Vercel-%230A0A0A?logo=vercel)
 ![Static Badge](https://img.shields.io/badge/DNS-Cloudflare-%23F6821F?logo=cloudflare)
 
-## The Professional Stack - what I deal with on the daily
+## My Professional Stack - what I deal with on the daily
 ![Static Badge](https://img.shields.io/badge/Frontend-TypeScript-blue?logo=Typescript)
 ![Static Badge](https://img.shields.io/badge/Frontend-React-%2358C4DC?logo=react)
 ![Static Badge](https://img.shields.io/badge/Middleware-GraphQL-%23F6009B?logo=graphql)
